@@ -1,2 +1,0 @@
-# shoptest
-thinkphp商城
